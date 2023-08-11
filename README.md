@@ -24,8 +24,8 @@ Welcome to my GitHub! I'm passionate about creating elegant solutions to complex
 
 ### 🤝 Let's Connect
 
-- 📧 Email: hundekarvinay011@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/vinaykumar-hundekar-60610918b/
+- 📧 Email: hundekarvinay@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/vinaykumar1121
 
 Feel free to explore my repositories and connect with me. Let's collaborate and build something amazing together! 😄
 
